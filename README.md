@@ -24,14 +24,23 @@ Version de Java 8
 Android Studio 
 
 Instalacion:
-*Descargar el archivo APK
-*Utilizar un dispositivo Android para probar la aplicacion
+Descargar el archivo APK
+Utilizar un dispositivo Android para probar la aplicacion
 
 Configuracion: 
+Configurar el Dispositivo movil como desarrollador para probar la aplicacion
+La configuracion ya viene predeterminada dado que es una aplicacion especificamente para solucionar este problema
 
 Uso:
+Acceder a la aplicacion
+Seleccionar una opcion
+Graficas para ver la informacion
+Nuevo para agregar un nuevo vehiculo y su informacion
+Administracion para modificar la informacion ya guardada
+La informacion solo se almacenara de manera local
 
 Contribucion: 
+
 
 Roadmap: 
 Poder contar con un servidor el cual almacene la informacion online y se pueda acceder mediante una conexion a internet para consultar la informacion
