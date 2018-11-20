@@ -20,9 +20,17 @@ Arquitectura:
 -Solucion
 
 Requerimientos: 
+Version de Java 8
+Android Studio 
+
 Instalacion:
+*Descargar el archivo APK
+*Utilizar un dispositivo Android para probar la aplicacion
+
 Configuracion: 
+
 Uso:
+
 Contribucion: 
 
 Roadmap: 
