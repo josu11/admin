@@ -1,4 +1,4 @@
-# admin
+# Admin
 Taller de productividad basada en herramientas tecnológicas 
 Se necesita Android Studio para visualizar el programa
 
@@ -18,3 +18,12 @@ Arquitectura:
 -Dispositivo movil
 -Desarrollo del programa
 -Solucion
+
+Requerimientos: 
+Instalacion:
+Configuracion: 
+Uso:
+Contribucion: 
+
+Roadmap: 
+Poder contar con un servidor el cual almacene la informacion online y se pueda acceder mediante una conexion a internet para consultar la informacion
